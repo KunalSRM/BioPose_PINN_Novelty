@@ -1,12 +1,9 @@
-
-## requirements.txt
-
-```text
 torch
 torchvision
 numpy
-pandas
+pillow
 matplotlib
-Pillow
+pandas
 tqdm
-opencv-python
+ultralytics
+scikit-learn
