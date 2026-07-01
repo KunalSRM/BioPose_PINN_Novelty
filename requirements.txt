@@ -1,0 +1,12 @@
+
+## requirements.txt
+
+```text
+torch
+torchvision
+numpy
+pandas
+matplotlib
+Pillow
+tqdm
+opencv-python
